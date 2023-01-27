@@ -1,2 +1,2 @@
 # test
-This is to test basic git
+This is to test basic git functions
